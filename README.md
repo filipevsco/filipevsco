@@ -9,7 +9,7 @@
   
 * 👽 Breathing technology 24 hours a day
 
-* 🇧🇷 America\Sao_Paulo
+* 🇧🇷 America/Sao_Paulo
 
 ### 📓 Studying
 

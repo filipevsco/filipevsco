@@ -1,4 +1,4 @@
-# Filipe Vasconcelos - @filipevsco 🤓
+# Filipe Vasconcelos - @filipevsco 
 
 
 #### Focused on becoming a Backend Developer. Guided by this amazing [roadmap](https://roadmap.sh/backend).

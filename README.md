@@ -1,7 +1,7 @@
 # Filipe Vasconcelos - @filipevsco 
 
 
-#### Focused on becoming a Backend Developer. Guided by this amazing [roadmap](https://roadmap.sh/backend).
+#### Focused on becoming a Python Backend Developer. Guided by this amazing [roadmap](https://roadmap.sh/backend).
 
 * 💻 Studying Computer Science at [Anhembi Morumbi](https://portal.anhembi.br/) 
 

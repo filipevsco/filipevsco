@@ -7,7 +7,7 @@
 
 * 🚅 Train Maintenance Technician at [CPTM](https://www.cptm.sp.gov.br/)
   
-* 👽 Breathing technology 24 hours a day
+* 👽 Technology 24 hours a day
 
 * 🇧🇷 America/Sao_Paulo
 
